@@ -4,6 +4,23 @@
         "mycursor",
         "mydb",
         "Pixmap",
+        "pyuic",
         "SARC"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "SARC Data System",
+            "group": "SARC DB",
+            "database": "sarc_data",
+            "username": "root",
+            "password": ""
+        }
     ]
 }
